@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://minio.booyah.dev/ipa/SpotilifeC.v1.2.3_v8.6.420.ipa?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6YL8NE4W39O9ZEP30F9L%2F20240419%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240419T122949Z&X-Amz-Expires=604800&X-Amz-Security-Token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NLZXkiOiI2WUw4TkU0VzM5TzlaRVAzMEY5TCIsImV4cCI6MTcxMzU3Mjc5OCwicGFyZW50Ijoicm9vdCJ9.kAHJrzM98dvgHn5XbCMDW_Bqb_bMmZ7eHMlSlqwZGXT6BKKhqHVxaco1049DyeeY0hUtf80AWyurTZpBQE4KEQ&X-Amz-SignedHeaders=host&versionId=null&X-Amz-Signature=4d1f16c3b52f5014575e7081721b8cbae94414861b657d4751fa4226a56d6b0c</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.spotify.client</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Spotify</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
